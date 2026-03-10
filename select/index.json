@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "砂糖玉の月",
+  "base_artist": "yanaginagi",
+  "createdAt": "2026-03-10T16:37:28.739143Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "砂糖玉の月",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/01_砂糖玉の月_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "砂糖玉の月",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/02_砂糖玉の月_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "砂糖玉の月",
+      "artist": "Yanagi, Nagi",
+      "has_synced": true,
+      "path": "select/03_砂糖玉の月_Yanagi,_Nagi.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "砂糖玉の月",
+      "artist": "yanaginagi",
+      "has_synced": true,
+      "path": "select/04_砂糖玉の月_yanaginagi.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "砂糖玉の月",
+      "artist": "Nagi Yanagi",
+      "has_synced": true,
+      "path": "select/05_砂糖玉の月_Nagi_Yanagi.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "砂糖玉の月",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_01_砂糖玉の月_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_2",
+      "source": "petitlyrics",
+      "title": "砂糖玉の月",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_02_砂糖玉の月_やなぎなぎ.txt"
+    },
+    {
+      "id": "petitlyrics_3",
+      "source": "petitlyrics",
+      "title": "砂糖玉の月",
+      "artist": "やなぎなぎ",
+      "has_synced": false,
+      "path": "select/pl_03_砂糖玉の月_やなぎなぎ.txt"
+    }
+  ]
+}
